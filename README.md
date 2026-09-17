@@ -1,6 +1,7 @@
 ### Hi, I'm Arviejhay 👋
 
-iOS Developer with 7+ years shipping production apps across fintech, e-commerce, and telco — currently building out a portfolio of independent iOS apps.
+iOS Developer with 7+ years maintaining/shipping production apps across fintech, e-commerce, and telco.
+Currently building out a portfolio of independent iOS apps.
 
 ---
 
